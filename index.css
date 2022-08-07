@@ -1,0 +1,74 @@
+body {
+		background-image: url("imagens/fundosite.jpg");
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: center;
+		background-size: cover;
+	}
+
+	{
+		box-sizing: border-box;
+	}
+
+	body {
+		margin: 0;
+	}
+
+	body {
+		color: Black;
+	}
+
+	.fundo {
+		background-color: yellow;
+	}
+
+	h2 {
+		color: blueviolet;
+	}
+
+	.topo {
+		background-color: yellow;
+		padding: 20px;
+		text-align: center;
+	}
+
+	.topnav {
+		overflow: hidden;
+		background-color: yellow;
+	}
+
+	.topnav a {
+		float: left;
+		display: block;
+		color: blueviolet;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+
+	.topnav a:hover {
+		background-color: blueviolet;
+		color: yellow;
+	}
+
+	body {
+		font-family: Serif, Monospace, Fantasy;
+	}
+
+	.pagina_central {
+		margin: 5% auto;
+		display: block;
+		width: 600px;
+		text-align: center;
+
+	}
+
+	body {
+		margin: 0 auto;
+		background-color: dimgray;
+		color: black;
+	}
+
+	.pagina-central input {
+		margin: 10px;
+	}
